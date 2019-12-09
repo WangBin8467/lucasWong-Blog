@@ -15,3 +15,5 @@ git commit -m 'deploy'
 
 # 如果发布到 https://wangbin8467.github.io
 git push -f git@github.com:wangbin8467/wangbin8467.github.io.git master
+
+cd -
