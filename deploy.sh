@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 如果发布到 https://wangbin8467.github.io
-git push -f git@github.com:wangbin8467/wangbin8467.github.io.git master
+# 如果发布到 https://Wangbin8467.github.io
+git push -f git@github.com:Wangbin8467/Wangbin8467.github.io.git master
 
 cd -
