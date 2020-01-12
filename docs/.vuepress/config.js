@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '/lucasWong-Blog/',
   title: "Lucas's Blog",
   description: "Lucas's Blog",
   themeConfig: {
